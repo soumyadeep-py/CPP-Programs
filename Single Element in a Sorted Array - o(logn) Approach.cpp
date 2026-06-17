@@ -1,4 +1,4 @@
-// In world of DSA, n(logn) on a sorted array means a binary search approach.
+// In world of DSA, O(logn) on a sorted array means a binary search approach.
 // Solving Leetcode problem 540: Single Element in a Sorted Array using O(log n) approach
 
 #include<iostream>
